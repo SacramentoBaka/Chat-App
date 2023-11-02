@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314551391691",
+    "project_id": "media-chat-a5ebd",
+    "storage_bucket": "media-chat-a5ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314551391691:android:73586f6622d15c8e9ad24e",
+        "android_client_info": {
+          "package_name": "com.example.mediachatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YxlPaZVV7GNTVCv5y5JpPMvrNT2XtrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
